@@ -1,0 +1,8 @@
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\bin\Debug\XMLtest.exe.config
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\bin\Debug\XMLtest.exe
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\bin\Debug\XMLtest.pdb
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\obj\Debug\XMLtest.csproj.AssemblyReference.cache
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\obj\Debug\XMLtest.csproj.SuggestedBindingRedirects.cache
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\obj\Debug\XMLtest.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\obj\Debug\XMLtest.exe
+C:\Users\suzuk\source\repos\XMLtest\XMLtest\obj\Debug\XMLtest.pdb
